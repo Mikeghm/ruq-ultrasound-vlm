@@ -1,0 +1,30 @@
+# IDE / cache
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.log
+
+# 构建产物 / 临时文件
+build/
+dist/
+*.o
+*.obj
+*.elf
+*.map
+
+# Python env
+.venv/
+env/
+*.pyc
+
+# 数据/权重（常见大文件）
+data/
+weights/
+checkpoints/
+*.pt
+*.ckpt
+*.bin
+*.npy
+*.npz
+*.safetensors

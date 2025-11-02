@@ -1,0 +1,134 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image> Describe the findings in an ultrasound report using the provided images."
+      },
+      {
+        "role": "assistant",
+        "content": "The liver is normal in size and echogenicity. No focal hepatic lesions.The portal vein is patent with normal hepatopetal flow.  There is no evidence of intrahepatic ductal dilation. The common bile duct is normal  in caliber, measuring 3 mm.  Multiple gallstones are present. There is diffuse gallbladder wall thickening and edema measuring up to 7 mm. Mild vascularity present. Sonographic Murphy's sign is negative possibly secondary to pain medications.  The pancreas head and body are visualized and are unremarkable. The pancreatic tail is obscured by bowel gas. No ductal dilatation.  The right kidney measures 10.3 cm with normal echogenicity.There is no evidence of stone or hydronephrosis. The kidney is normal in echotexture."
+      }
+    ],
+    "images": [
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-103-1hraihu.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-106-1ap8qcf.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-11-1q1p3hm.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-113-h0gnd.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-117-19buqvy.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-120-12er91p.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-124-1f3ihuo.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-14-91lvw4.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-18-1hjsr6a.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-21-y7ong2.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-25-7768hd.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-29-1g5v2l1.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-32-18s9pod.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-36-io71ug.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-4-z69ix2.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-42-1e2zh4s.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-46-11c0qhq.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-5-su98v1.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-53-jruf25.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-57-1rtjh5k.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-60-1jvlxnq.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-65-mo18h9.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-69-1v06iij.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-72-1attmka.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-76-xgxqbl.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-8-kxf1wg.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-83-1n7u5rz.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-87-18yzque.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-90-osmwye.jpg",
+      "Test_Dataset/3/1.2.840.114350.2.331.2.798268.2.314595160.1-1-94-1x5bthk.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image> Create a detailed medical report from the given ultrasound images."
+      },
+      {
+        "role": "assistant",
+        "content": "The liver has normal echogenicity. The liver is enlarged measuring 20.0 cm. There is no evidence of intrahepatic ductal dilation. The common bile duct has normal  caliber, measuring 4mm. Gallstones are again noted within the gallbladder. The gallbladder wall is normal in thickness measuring 3 mm. No pericholecystic fluid. No sonographic Murphy sign. The portal vein is patent with normal hepatopetal flow. The pancreas is unremarkable. The right kidney measures 10.7cm, normal, with normal echogenicity. No hydronephrosis. A 6 x 6 mm nonobstructing stone is present within the upper pole. Upper pole simple cyst measuring 9 x 8 x 9 mm. Proximal aorta is normal in caliber measuring 2.3 cm. IVC is patent."
+      }
+    ],
+    "images": [
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-11-143coza.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-12-z8ogfj.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-13-1553fo3.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-15-187eyi4.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-16-11zt1u9.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-18-13370cu.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-19-1xodu5a.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-20-6lx6oa.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-21-drcyy.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-23-eqyp1l.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-24-i54kws.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-25-2phqkn.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-27-2h1nm7.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-28-1v5llak.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-30-1jndlak.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-31-1q4or3n.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-33-7xaqs6.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-34-fuanlf.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-36-hdmn5d.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-37-1d1b6yz.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-38-1lclfxb.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-4-1k5y4t7.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-40-1l59c28.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-42-1mauj2o.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-43-aaiqrs.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-46-jwwc34.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-47-163fu31.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-49-1txrz3c.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-5-1qowiin.jpg",
+      "Test_Dataset/2/1.2.840.114350.2.331.2.798268.2.365167813.1-1-7-1stoosg.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image> Please generate an ultrasound report based on these images."
+      },
+      {
+        "role": "assistant",
+        "content": "LIVER: Normal echogenicity. The liver is normal in size. The liver measures 14.9 cm. 6.1 x 5.7 x 6.8 cm calcified hypodense lesion in the right hepatic lobe with no corresponding internal, or peripheral vascularity correlating with lesion seen on prior  CT abdomen and pelvis.  PORTAL VEIN: Main portal vein is patent in its visualized portion, with normal direction of flow. Peak velocity measures 27.3 cm/s. INTRAHEPATIC IVC: Patent.  INTRAHEPATIC BILE DUCTS: Nondilated. COMMON BILE DUCT: 4 mm. Normal caliber. GALLBLADDER: Distended gallbladder measuring up to 14 cm with stones and sludge. The gallbladder wall measures 3 mm. There is a small amount of pericholecystic fluid, and per sonographer patient had a positive Murphy's sign.  PANCREAS: Visualized portions are normal.  RIGHT KIDNEY: 12.3 cm. Normal echogenicity. No hydronephrosis, shadowing stone or perinephric abnormality.  OTHER FINDINGS: No ascites in the right upper quadrant."
+      }
+    ],
+    "images": [
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-13-io5rg9.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-15-pox9dg.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-18-10l9p0x.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-21-1qrlu6w.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-23-1ymm5yp.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-26-a574nq.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-29-n475n3.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-30-qyy90l.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-33-1v6ysdy.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-36-1pkyiyc.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-38-1x3be46.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-40-kecu4b.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-47-udiusp.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-49-1e5yfkn.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-51-1o01nws.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-54-1yj71da.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-58-ec7dno.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-6-d98f5k.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-62-18jm6kq.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-66-16hqpz.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-68-879c1f.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-71-ly0z2b.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-74-witotr.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-76-13w8gy3.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-8-j7rgsr.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-82-7ce4sq.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-84-rom826.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-87-1ge0l75.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-9-1sexfv9.jpg",
+      "Test_Dataset/1/1.2.840.114350.2.331.2.798268.2.745573367.1-1-93-6145pe.jpg"
+    ]
+  }
+]

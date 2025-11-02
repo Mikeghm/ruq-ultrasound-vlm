@@ -1,0 +1,52 @@
+# pack-refs with: peeled fully-peeled sorted 
+f360e081f94105568471ffe518a7520ec7f79f55 refs/remotes/origin/add-output-processing
+309a177512c392224b5128c8eda5c96174ec9ed5 refs/remotes/origin/adding_measures
+3e8df9d8dc424308e38afcd5de0208aa94af8252 refs/remotes/origin/bias-evaluation-suite
+bdec133f869b520e83cbff4484d2326684db5330 refs/remotes/origin/bold
+9fda4ff6f13af1abb62145951b0e15fbe248c9fb refs/remotes/origin/ci-test-huggingface-hub-v0.16.0.rc0
+651c2adba2eb08b94d6e86f185b9a94af47cf502 refs/remotes/origin/ci-test-huggingface-hub-v0.17.0.rc0
+2216725134802cfd687e64ad927b3a952e0df8c8 refs/remotes/origin/config-load
+00742e0558fe927c20b7285855142cec9ff402ef refs/remotes/origin/config-test-branch
+13853968bc07037a642fc1b247c0d5464e80fa78 refs/remotes/origin/docbuild-secrets
+991c5e4eb0b95a7836c9880139494aa8f1aec4aa refs/remotes/origin/fill-mask-evaluator
+e9e277a98020e31a4ca0f026b47f2a354081e6f0 refs/remotes/origin/fix-632
+e6c6f36cdd979fab67f5ffc61c7229a2b8967c90 refs/remotes/origin/fix-cer-wer-outputs
+47334d86cd9ec9768a8fc3e4c9368b9a11c67818 refs/remotes/origin/fix-conda-ci
+6665e29bb490356975b1f1534fdfd403abedafe2 refs/remotes/origin/fix-run_ner
+dacedb8fc7e9058dfec20157df8e87eea3ac0332 refs/remotes/origin/hn-cache-evaluator
+13163431566ef06f5799ce3cb0d3aced26b393e0 refs/remotes/origin/hn-eval-harness
+9b10a416937c6bb83f1016b8c845023dd9410e24 refs/remotes/origin/hn-harness
+1a3d62830032b1ccb9fbf5849d758a79f0f2ca76 refs/remotes/origin/hn-refactor-ppl-compute
+75aee3b14667b1fcfc6c13f19d9015989c49acad refs/remotes/origin/interface-params
+4e910f84edea17577daac8a5d81edb3d4e478325 refs/remotes/origin/iou-perf-improvement
+4918b8ecf527e08625bd7e6ea0c8c3d5619e3720 refs/remotes/origin/keras-callback
+5aa3982a9a8c86e506860e381d428a64b0cce73b refs/remotes/origin/main
+067d8382db7aa814db3b543d34848a8ac0f6f503 refs/remotes/origin/muellerzr-deprecated-evaluation-strat
+cd6fc41df74a425ecce900d074228eea41d9c1a8 refs/remotes/origin/perplexity-model-default
+dc7b2cc5ceef73d2ffb53e783e4166e2ce14400e refs/remotes/origin/scikit-learn-integration
+3cf22a4923729a82ed184613b960cb9a57eec0c8 refs/remotes/origin/setdevversion
+5ce5271baad37a8b1d341abb71244e33cad99fad refs/remotes/origin/test-ci
+2f7772ed332bb92597d6ce9895f0e78e531f5397 refs/remotes/origin/test-hfh-11
+24ace9c8e8c8c77b6767c5a3f8ce14c8e74cca3f refs/remotes/origin/test-huggingfacehub-0.10.0
+8c49ba4fcb30a8e5bc2f1ea0d86611b3128a1581 refs/tags/v0.1.0
+^72946294104416072d22a241f62a09dd78c839a4
+0b281e61770dd1fac676da666ee9c72585e8082c refs/tags/v0.1.1
+^44f21674e98fe235c89910f4f364fab8b3489b98
+a1ccf26c818ae950c1a3ce541fd401024994509f refs/tags/v0.1.2
+^8dc08fa7ebe5aa3bdca878a0de6bb89c9f4dbfef
+435809264bdf67e6b330b1acd78e1226697f51d6 refs/tags/v0.2.0
+^2e5b5272f7b4040260fdf5a9e19ee6c5a43c3336
+c50a3336d8e99bf2f9201dd3e6f0c70ed43cffed refs/tags/v0.2.1
+^103740c053b8e1d5ce24f0ddf8715ec51ed111ab
+ac3658b861179ba9d759012c9e822450b4544abe refs/tags/v0.2.2
+^5a45ad005c7eac91f2cad513e939409e22fceb1e
+63c12428d64ed2111a9867313ea7d0dcbfddbaa5 refs/tags/v0.3.0
+^52cfd81029cc984143bdcb5d6dfaee56f0a4d06f
+c0fa57fc323f23d155d73604991c6de7eb9f4f86 refs/tags/v0.4.0
+^ec46ca2cbb77433622057a74cabe611defae669d
+e552ae29a09c098f19e8c9bc981baaa726278104 refs/tags/v0.4.1
+^87f7b3705a043142a8d844fa96f6612b6ede424b
+8b07fa547570916feee3d415cb2a51b2cb181df5 refs/tags/v0.4.2
+^a4bdc10c48a450b978d91389a48dbb5297835c7d
+310b4e512f3c173cf12a7ff6d05defcdef1c9911 refs/tags/v0.4.3
+^5310084f128a86f6969cc3fe1aaf0573d6859dbc
